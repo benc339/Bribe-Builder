@@ -1,0 +1,40 @@
+
+{
+  "project_info": {
+    "project_number": "174829264516",
+    "project_id": "bribe-builder",
+    "storage_bucket": "bribe-builder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174829264516:android:16d084e2e55a4d6ce8ecd1",
+        "android_client_info": {
+          "package_name": "co.bencetoth.habit_creator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174829264516-asgq31a3a0k11qa1p16dhfsnrtre2dds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrJRwUqzYU35qk8-KB8UpyJ260xJ8Y4Pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174829264516-asgq31a3a0k11qa1p16dhfsnrtre2dds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
