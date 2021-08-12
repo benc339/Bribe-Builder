@@ -47,8 +47,8 @@ const kInputDecoration = InputDecoration(
   ),
 );
 
-const apiKey =
-    'pk_live_51ISUNqL5eupYTfavhrKxG5PkFmTi2PTwXX7z8mDn9Cj8q3hdWDc9sZB4u4wAGJOJilcigdfY3GiZBJaE2tDhTIdU00IXPDCvzL';
-const secretKey =
-    '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';
-const nikesPriceId = 'price_1ISVb7L5eupYTfavmg1wf8F0';
+//const apiKey =
+    
+//const secretKey =
+    
+
